@@ -1,0 +1,25 @@
+<style>
+
+h1 {
+  color:#4F321C;
+  font-family:'Shrikhand', cursive;
+}
+
+#container {
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#nav {
+    padding: 0;
+	  list-style-type: none;
+}
+
+#nav li {
+    margin: 0;
+    padding: 0;
+	  border-bottom: 1px solid #ccc;
+}
+
+</style>
