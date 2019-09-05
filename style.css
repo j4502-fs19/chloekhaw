@@ -59,14 +59,16 @@ p {
   text-decoration: none;
 }
 
-#old a:hover {
-  color: #626E73;
-}
-
 #old a:visited {
   color: #626E73;
   text-decoration: underline;
 }
+
+#old a:hover {
+  color: #626E73;
+  text-decoration: underline;
+}
+
 
 .footer {
     font-size: 0.8em;
