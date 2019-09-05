@@ -54,14 +54,17 @@ p {
   color: #8C3C2A;
 }
 
-#old a:link, a:active {
-  color: #626E73;
-  font-family: 'Roboto Condensed', sans-serif;
+#old a:link, {
+  color: #93B3BF;
   text-decoration: none;
 }
 
-#old a:hover, a:visited {
-  color: #93B3BF;
+#old a:hover {
+  color: #626E73;
+}
+
+#old a:visited {
+  color: #626E73;
   text-decoration: underline;
 }
 
