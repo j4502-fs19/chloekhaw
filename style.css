@@ -54,17 +54,12 @@ p {
   color: #8C3C2A;
 }
 
-#old a:link {
+#old a:link, a:visited {
   color: #93B3BF;
   text-decoration: none;
 }
 
-#old a:visited {
-  color: #626E73;
-  text-decoration: underline;
-}
-
-#old a:hover {
+#old a:hover, a:active {
   color: #626E73;
   text-decoration: underline;
 }
